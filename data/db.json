@@ -1,0 +1,41 @@
+{
+    "results": [
+        {
+        "id": 1,
+        "image": "https://images.edrawmax.com/examples/floor-plan-examples/floor-plan-22.png",
+        "planID": 101,
+        "description": "This is just the first one",
+        "sqFootage": 1002,
+        "stories": 2,
+        "height": 800,
+        "width": 400
+        },
+        {
+        "id": 2,
+        "image": "https://mir-s3-cdn-cf.behance.net/project_modules/1400/d28a549566257.56ae07887d656.jpg",
+        "planID": 102,
+        "squareFootage": 2020,
+        "stories": 3,
+        "height": 2400,
+        "width": 1400
+        },
+        {
+        "id": 3,
+        "image": "https://www.ezblueprint.com/examples/floorplan1.png",
+        "planID": 103,
+        "squareFootage": 3100,
+        "stories": 2,
+        "height": 1600,
+        "width": 1000
+        },
+        {
+        "id": 4,
+        "image": "https://www.meadowlark.org/sites/default/files/styles/large/public/2_bedroom_2_bath_1096sqft.jpg?itok=pdLOx2Fq",
+        "planID": 104,
+        "squareFootage": 13700,
+        "stories": 8,
+        "height": 12050,
+        "width": 6050
+        }
+            ]
+}
